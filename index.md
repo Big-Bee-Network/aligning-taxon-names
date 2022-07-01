@@ -84,7 +84,7 @@ the pitch.
 {% endcomment %}
 <img src="https://www.dictionary.com/e/wp-content/uploads/2018/04/under-construction-300x300.jpg" style="float:center;width:400px;margin:6px;">
 <br/><br />
-Join Macroscopic Solutions and Katja Seltmann for a short course on creating 3D photogrammatic images of bees. This course includes weekly lessons, in person discussion taking students from specimen selection to final models.
+Join .....and more about this workshop!
 
 ## Acknowledgements
 This project is supported by the National Science Foundation.
